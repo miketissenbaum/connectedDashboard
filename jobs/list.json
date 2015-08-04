@@ -1,0 +1,19 @@
+// {
+//   "members":
+//     [
+//       {
+//         "Name": "Mike",
+//         "Status":"Here"
+//       },
+ 
+//       {
+//         "Name":"Jon",
+//         "Status": "Out"
+//       }
+//     ]
+// }
+
+{
+  "Erica":"fa-film",
+  "Rich":"fa-gamepad"
+}
